@@ -1,7 +1,6 @@
 #include <stdio.h>
-//MURIEL DE BONA PORTON GUAREZI (20150474)
-//PRIMEIRA VPLs [Elabore um algoritmo que solicite valores para formar dois ret‚ngulos e ao final mostre qual deles possui maior ·rea.
-//A saÌda do cÛdigo deve ser as seguintes mensagens exatamente com estas palavras: primeiro retangulo maior; segundo retangulo maior; retangulos com area igual]
+//PRIMEIRA VPLs [Elabore um algoritmo que solicite valores para formar dois ret√¢ngulos e ao final mostre qual deles possui maior √°rea.
+//A sa√≠da do c√≥digo deve ser as seguintes mensagens exatamente com estas palavras: primeiro retangulo maior; segundo retangulo maior; retangulos com area igual]
 
 
 int main()
